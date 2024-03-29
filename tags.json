@@ -1,0 +1,66 @@
+{
+
+"intents": 
+
+  [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Bonjour",
+        "Howdy",
+        "Well well well, we meet again",
+        "Hiya",
+        "huloo",
+        "Is anybody there?",
+        "what's up my man",
+        "Hello There?"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Farewell", "Hope to see you again", "Bye now", "May our road cross again", "On the morrow good sir", "See you later homeboy"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "forecast",
+      "patterns": ["What is your prediction on the price of a dragon dagger in the next hour", "What do you forecast the price of a bronze pickaxe to be in 3 hours." , "What will the price of a pineapple be in 17 hours",
+    "How expensive will an armadyl godsword be in 2 days", "Show me the price of a iron platebody in an hour", "What do you think the price of a bronze shortsword will be in twelve hours", 
+    "Oh wise one, tell me the price of my Rune platebody in an hour", "How expensive will my abyssal whip be in a few hours?", "Do you think the price of my item will increase?", "Should I sell this oak plank now or in a few hours",
+    "Is my rune crossbow going down in price?", "What is going to happen to the price of my iron shortsword"]
+    },
+    {
+      "tag": "Margin",
+      "patterns": [
+        "Show me the top 5 items with the highest margin under 10k gp ",
+        "Show me the top 10 items with the highest margin under 50k gp",
+        "What are some of the top items with the highest margin",
+        "What could I buy to make a quick profit",
+        "How much could I make if I sold my armadyl godsword",
+        "How much could I make if I sold my dragon dagger",
+        "What are top 12 items with the highest margin under 14k",
+        "I have 18k, what could I buy and then sell to make a quick profit",
+        "I have 20k what could I buy and sell to make money",
+        "I have 36k, is there anything I can buy to make money quickly?",
+        "Give me a list of the items with the highest margin under 12k",
+        "If I sold my dragon scimitar for 10k gp would I make money",
+        "Robotalk, Dinosaur Talk, Margin."
+      ]
+    }
+  ]
+}
