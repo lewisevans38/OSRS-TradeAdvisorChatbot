@@ -12,3 +12,5 @@ If the model classifies the intent as Forecast, the project detects two key word
 
 
 ![image](https://github.com/lewisevans38/OSRS-TradeAdvisorChatbot/assets/143433180/63c079a4-ec5f-4a3d-99af-cd62decb15b0)
+
+![image](https://github.com/lewisevans38/OSRS-TradeAdvisorChatbot/assets/143433180/af93fe93-1cbc-42ce-885b-83a9db599dd2)
